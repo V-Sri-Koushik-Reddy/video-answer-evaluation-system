@@ -4,51 +4,21 @@ An end-to-end AI-based system that evaluates spoken video answers by processing 
 
 ## Project Overview
 
-This project takes a student's video response as input and processes it through a complete evaluation pipeline:
+This project takes a video response as input and processes it through a complete evaluation pipeline:
 
-Video Input
-
-↓
-
-Audio and Frame Extraction
-
-↓
-
-Speech-to-Text Conversion
-
-↓
-
-Timestamp-Based Segmentation
-
-↓
-
-Text Preprocessing
-
-↓
-
-Semantic Understanding
-
-↓
-
-Keyword and Filler Analysis
-
-↓
-
-Visual Activity Analysis
-
-↓
-
-Chunk-wise Scoring
-
-↓
-
-Final Aggregated Evaluation
-
-↓
-
+Video Input  
+↓  
+Audio Extraction  
+↓  
+Speech-to-Text  
+↓  
+Timestamp Segmentation  
+↓  
+Semantic Analysis  
+↓  
+Scoring  
+↓  
 Dashboard Visualization
-
-
 
 The system is designed as a working MVP for hackathon/demo use cases where spoken answers need to be evaluated automatically.
 
