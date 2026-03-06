@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+venv312/
+
+# Output files
+backend/output/*.wav
+backend/output/*.json
+
+# Input videos
+backend/input/*.mp4
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# macOS
+.DS_Store

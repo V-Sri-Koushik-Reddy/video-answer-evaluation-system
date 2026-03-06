@@ -1,0 +1,3 @@
+Semantic Analysis using an LLM means analyzing the transcribed text to understand its meaning, context, intent, and key information.
+Instead of just raw transcript, the system produces structured understanding.
+The STT part can be done using OpenAI Whisper, and the semantic
